@@ -1,9 +1,13 @@
+<!-- 标语/gif -->
 # Hey there <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
 
+<!-- 动态打字效果 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);平淡日子里，泛着光✨&center=true&size=27"> </a></h1>
 
+<!-- 右侧Gif -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<!-- 个人资料展示 -->
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭  我目前正在学习前端开发。
@@ -22,8 +26,10 @@
 - 📥 &nbsp; Email| urbanidlers@163.com
 - 🛌 &nbsp; PW | https://idlers.github.io
 
+<!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
+<!-- 欢迎标语/gif -->
 # Hello <img src="https://i.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.webp" width="30">
 
 **欢迎来到我的个人主页！** 😄 在这里，我与众多优秀的开发者一起探索 GitHub 的魅力，共同追求技术的进步和成长。🙌
@@ -34,4 +40,29 @@
 
 请随时访问我的个人主页，与我一同分享关于技术、学习和生活的点滴心得。感谢你的到来，期待我们的交流与互动！🌼
 
-![](https://camo.githubusercontent.com/75ae6eba727b37c9bf787afff6694bfedee6bb00543821f71f7c5de407e31ba3/68747470733a2f2f63646e2e6362642e696e742f616e7a686979752d61737365747340312e302e31312f696d6167652f636f6d6d6f6e2f6769746875622d696e666f2f706572736f6e616c2d686f6d65706167652d62616e6e65722e6a7067)
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
+
+# 🚀 Action <img src="https://i.giphy.com/media/U8FvqfxkzxoSpokGaW/giphy.webp" width="30">
+
+<!-- GitHub数据统计 -->
+<p align="center">
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idlers&show_icons=true&theme=radical" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=idlers&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=idlers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<div align="center">
+  <img src="https://w.wallhaven.cc/full/d6/wallhaven-d6eylg.jpg" width="100%"/>
+</div>
