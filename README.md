@@ -1,10 +1,6 @@
 ## Hi, 👋  I'm <a href="https://idlers.github.io/" target="_blank">idlers (Blog)</a>🛌</sup>
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
-  <!-- Right side gif -->
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
-  
-<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!--  Introduction expansion  -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
   
@@ -20,16 +16,15 @@
   请随时访问我的个人主页，与我一同分享关于技术、学习和生活的点滴心得。感谢你的到来，期待我们的交流与互动！🌼
 
   <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
-
-  # 🚀 Action <img src="https://i.giphy.com/media/U8FvqfxkzxoSpokGaW/giphy.webp" width="30">
   
   </details>
   
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
-<!-- personal data -->
-
-  <h3> 👨🏻‍💻 About Me </h3>
+  <!-- Right side gif -->
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="290" />
   
+  <h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 I am currently studying front-end development.
 - 🤔 Explore new technologies and keep learning.
 - 🎓 Study computer science, computer programming.
@@ -42,15 +37,16 @@
   <!-- Snake Gif -->
   <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
-
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
-  <!-- data statistics -->
+  
   <p align="center">data statistics
     <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=idlers&show_icons=true&theme=radical" />
     <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
   </p>
-  <div align="center"><img src="https://metrics.lecoq.io/idlers?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" /></div>
+  <div align="center">
+  <img src="https://metrics.lecoq.io/idlers?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
+</div>
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- GitHub🏆 -->
