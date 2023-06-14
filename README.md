@@ -24,14 +24,14 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
   
   <h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 I am currently studying front-end development.
-- 🤔 Explore new technologies and keep learning.
-- 🎓 Study computer science, computer programming.
-- 💼 designer | front-end Web developer.
-- 🌱 Games, film and television digital technology, eating, playing and fun life.
-- ✍️ Keep the latest design trends as a hobby/side business.
-- ☕ Slow down life and make a romantic life home.
+  
+- 🔭我目前正在学习前端开发。
+- 🤔探索新技术，不断学习。
+- 🎓学习计算机科学，计算机编程。
+- 💼designer |前端Web开发人员。
+- 🌱游戏、影视数码科技，吃、玩、乐生活。
+- ✍️将最新的设计趋势作为业余爱好/副业。
+- ☕放慢生活，让浪漫的生活回家。
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- Snake Gif -->
