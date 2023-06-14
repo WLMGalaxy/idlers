@@ -27,7 +27,7 @@
   <!-- Right side gif -->
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
-  <h3> 👨🏻‍💻 About Me </h3>
+  # 👨🏻‍💻 About Me <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
   
 - 🔭我目前正在学习前端开发。
 - 🤔探索新技术，不断学习。
@@ -37,6 +37,9 @@
 - ✍️将最新的设计趋势作为业余爱好/副业。
 - ☕别让世俗淹没生活的浪漫和热情
 
+<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
+ <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" /></div>
+  
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- Snake Gif -->
   <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
