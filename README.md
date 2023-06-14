@@ -27,8 +27,9 @@
   
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
 <!-- personal data -->
-<h3> 👨🏻‍💻 About Me </h3>
 
+  <h3> 👨🏻‍💻 About Me </h3>
+  
 - 🔭 I am currently studying front-end development.
 - 🤔 Explore new technologies and keep learning.
 - 🎓 Study computer science, computer programming.
@@ -36,14 +37,6 @@
 - 🌱 Games, film and television digital technology, eating, playing and fun life.
 - ✍️ Keep the latest design trends as a hobby/side business.
 - ☕ Slow down life and make a romantic life home.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Front-end stack
-- 🔧 &nbsp; WebStorm | Visual Studio code | Hbuilder
-- 🖥  &nbsp; Photoshop | Premiere Pro | Axure| AdobeXD
-- 📥 &nbsp; Email | urbanidlers@163.com
-- 🛌 &nbsp; PW | https://idlers.github.io
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- Snake Gif -->
