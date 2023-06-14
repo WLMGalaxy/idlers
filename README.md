@@ -4,29 +4,33 @@
   # Hey there <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
 
   <!-- 动态打字效果 -->
-  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);平淡日子里，泛着光✨&center=true&size=27"> </a></h1>
+  <h1 align="center">
+    <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);平淡日子里，泛着光✨&center=true&size=27"> </a>
+  </h1>
 
   <!-- 右侧Gif -->
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-  <!-- 个人资料展示 -->
-  <h3> 👨🏻‍💻 About Me </h3>
+  <div align="left">
+      <!-- 个人资料展示 -->
+      <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔭  我目前正在学习前端开发。
-  - 🤔  探索新技术并持续学习。
-  - 🎓  学习计算机科学、计算机编程。
-  - 💼  设计师|前端 Web 开发人员。
-  - 🌱  游戏影视数码科技吃喝玩乐生活。
-  - ✍️  将最新的设计趋势作为业余爱好/副业。
-  - ☕ 慢下来的生活做个浪漫的生活家。
+      - 🔭  我目前正在学习前端开发。
+      - 🤔  探索新技术并持续学习。
+      - 🎓  学习计算机科学、计算机编程。
+      - 💼  设计师|前端 Web 开发人员。
+      - 🌱  游戏影视数码科技吃喝玩乐生活。
+      - ✍️  将最新的设计趋势作为业余爱好/副业。
+      - ☕ 慢下来的生活做个浪漫的生活家。
 
-  <h3>🛠 Tech Stack</h3>
+      <h3>🛠 Tech Stack</h3>
 
-  - 💻 &nbsp; Front-end stack
-  - 🔧 &nbsp; WebStorm | Visual Studio code | Hbuilder
-  - 🖥  &nbsp; Photoshop |Premiere Pro | Axure| AdobeXD
-  - 📥 &nbsp; Email| urbanidlers@163.com
-  - 🛌 &nbsp; PW | https://idlers.github.io
+      - 💻 &nbsp; Front-end stack
+      - 🔧 &nbsp; WebStorm | Visual Studio code | Hbuilder
+      - 🖥  &nbsp; Photoshop |Premiere Pro | Axure| AdobeXD
+      - 📥 &nbsp; Email| urbanidlers@163.com
+      - 🛌 &nbsp; PW | https://idlers.github.io
+  </div>
 
   <!-- 贪吃蛇代码贡献图 -->
   <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
@@ -56,50 +60,49 @@
   <div align="center"><img src="https://metrics.lecoq.io/idlers?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" /></div>
 
   <!-- GitHub奖杯🏆 -->
-  <div align="center">
+  <div>
     <img  src="https://github-profile-trophy.vercel.app/?username=idlers&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </div>
+  
   <br>
 
   <!-- GitHub数据统计 -->
-  <div align="center">
+  <div>
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=idlers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </div>
 
   <!-- ########################################## 分割 ########################################## -->
-  <img width="1000px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
   <div align="center" >
 
   ```mermaid
-  mindmap
-    root((小孙同学))
-      编程
-        Web开发
-        网络爬虫
-        人工智能
+mindmap
+  root((阿闲))
+    技术
+      Web开发
+      UI/UX
+      开发中..
+    爱好
+      运动
       摄影
-        人文
-        建筑
-        风景
-      旅行
-        苏州
-        南京
-        滁州
-        合肥
-        寿县
-      阅读
-        人物传记
-        个人成长
-        社会文化
-        心理
-        计算机技术
+      数码
+      游戏
+      科技
+    旅行
+      腾冲
+      瑞丽
+      大连
+      山东
+      河南
+      天津
+      保定
+    阅读
+      人物传记
+      故事集
+      心理
+      专业
   ```
-
-  <div align="center">
-    <img src="https://w.wallhaven.cc/full/d6/wallhaven-d6eylg.jpg" width="100%"/>
-  </div>
-    
 </div>
 
