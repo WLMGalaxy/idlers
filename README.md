@@ -39,7 +39,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   
-  <p align="center">data statistics
+  <p align="center">
     <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=idlers&show_icons=true&theme=radical" />
     <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
