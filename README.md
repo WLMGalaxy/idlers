@@ -4,8 +4,8 @@
   <!--  Introduction expansion  -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
   <details>
-  <summary>(单击展开) 
-    <em><b>我喜欢和不同的人联系，所以如果你想说：<a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>我会很高兴见到你!： ）</b> : )</em>
+  <summary>
+    (点我👆👀) <em><b>我喜欢和不同的人联系，所以如果你想说：<a href="https://github.com/Charmve/Charmve/issues/new" >Say <b>"Hi" </b></a>, <b>我会很高兴见到你 </b>🥰</em>
   </summary>
   
    <!-- welcome/gif -->
@@ -54,7 +54,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- GitHub🏆 -->
-  <div>
+  <div align="center">
     <img  src="https://github-profile-trophy.vercel.app/?username=idlers&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </div>
   
@@ -62,7 +62,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- statistical table -->
-  <div>
+  <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=idlers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </div>
