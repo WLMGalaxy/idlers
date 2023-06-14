@@ -2,7 +2,11 @@
 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!--  Introduction expansion  -->
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
+  <details>
+  <summary>(单击展开) 
+    <em><b>我喜欢和不同的人联系，所以如果你想说：<a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>我会很高兴见到你!： ）</b> : )</em>
+  </summary>
   
    <!-- welcome/gif -->
   # Hello <img src="https://i.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.webp" width="30">
