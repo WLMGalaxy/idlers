@@ -44,11 +44,12 @@
   <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
   
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
+  <!-- programming tool icon -->
+<div align="center">&nbsp;<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br></div>
   <!--  skills -->
 <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" /></div>
 
-  <!-- programming tool icon 编程工具图标 -->
-<div align="left">&nbsp;<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br></div>
+ 
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   
   <p align="center">
