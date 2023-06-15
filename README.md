@@ -179,5 +179,5 @@ mindmap
 </div>
   
 <div align="center">
-  <img src="https://w.wallhaven.cc/full/6o/wallhaven-6odvgx.png">
+  <img src="https://s1.ax1x.com/2023/06/09/pCA2dLq.jpg">
 </div>
