@@ -18,24 +18,30 @@
   在这里，我鼓励大家保持平衡的生活方式，追求健康和幸福。有时候，我也会放下技术的束缚，去欣赏大自然的美丽，与家人朋友一起度过美好的时光。🌿
 
   请随时访问我的个人主页，与我一同分享关于技术、学习和生活的点滴心得。感谢你的到来，期待我们的交流与互动！🌼
-
+  
   <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
   
   </details>
   
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!-- Right side gif -->
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
   
   # 👨🏻‍💻 About Me <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
   
-- 🔭我目前正在学习前端开发。
-- 🤔探索新技术，不断学习。
-- 🎓学习计算机科学，计算机编程。
-- 💼设计、前端、自媒体、人工智能。
-- 🌱游戏、影视、数码科技，吃喝玩乐。
-- ✍️将最新的设计趋势作为业余爱好/副业。
-- ☕别让世俗淹没生活的浪漫和热情
+- 🔭 I am currently studying front-end development.
+
+- 🤔 Explore new technologies and keep learning.
+
+- 🎓 Study computer science, computer programming.
+
+- 💼 Design, front-end, We Media, Artificial Intelligence.
+
+- 🌱 Games, film and television, digital technology, eating and drinking fun.
+
+- ✍️ Use the latest we-media AI trends as a hobby/side business.
+
+- ☕ Don't let the mundane drown out the romance and zest of life
 
 
   
