@@ -29,20 +29,13 @@
   
   # 👨🏻‍💻 About Me <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
   
-- 🔭 I am currently studying front-end development.
-
-- 🤔 Explore new technologies and keep learning.
-
-- 🎓 Study computer science, computer programming.
-
-- 💼 Design, front-end, We Media, Artificial Intelligence.
-
-- 🌱 Games, film and television, digital technology, eating and drinking fun.
-
-- ✍️ Use the latest we-media AI trends as a hobby/side business.
-
-- ☕ Don't let the mundane drown out the romance and zest of life
-
+- 🔭我目前正在学习前端开发。
+- 🤔探索新技术，不断学习。
+- 🎓学习计算机科学，计算机编程。
+- 💼设计、前端、自媒体、人工智能。
+- 🌱游戏、影视、数码科技，吃喝玩乐。
+- ✍️将最新的自媒体AI趋势作为业余爱好/副业。
+- ☕别让世俗淹没生活的浪漫和热情
 
   
 <!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
