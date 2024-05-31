@@ -141,17 +141,6 @@ mindmap
   ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
   ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-
-  🧰 常用的工具
-
-  ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-  ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-  ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-  ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-  ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
   
   <!-- svg -->
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
