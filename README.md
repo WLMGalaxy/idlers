@@ -1,9 +1,8 @@
 <!-- ## Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm idle -->
 
-<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!--  Introduction expansion  -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
-  <details>
+  
   <summary>
    <h3>(点我👆👀)</h3> <em><b>我喜欢和不同的人联系，所以如果你想说：<a href="https://github.com/Charmve/Charmve/issues/new" >Say <b>"Hi" </b></a>, <b>我会很高兴见到你 </b>🥰</em>
   </summary>
@@ -19,11 +18,10 @@
 
   请随时访问我的个人主页，与我一同分享关于技术、学习和生活的点滴心得。感谢你的到来，期待我们的交流与互动！🌼
   
-  <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
-  
-  </details>
-  
-<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
+  <div align="center">
+    <img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" />
+  </div>
+
   <!-- Right side gif -->
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
   
@@ -38,8 +36,7 @@
 
 
 
-
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center">
   <!-- svg -->
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
