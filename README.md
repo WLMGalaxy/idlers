@@ -22,15 +22,8 @@
     <img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" />
   </div>
   
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-  
    <!-- Right side gif -->
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
+  <img align="right" style="margin-top: 20px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
   
     
   # 👨🏻‍💻 About Me <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
@@ -54,7 +47,7 @@
     <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     
     <!-- gif -->
     <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
