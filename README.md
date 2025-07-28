@@ -36,12 +36,6 @@
 - ✍️将最新的自媒体AI趋势作为业余爱好/副业。
 - ☕别让世俗淹没生活的浪漫和热情
 
-  
-<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
-  <!-- Snake Gif -->
-  <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
-  
-<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   <!--  skills -->
 <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" /></div>
   
