@@ -25,6 +25,9 @@
    <br/>
    <br/>
    <br/>
+   <br/>
+   <br/>
+   <br/>
   
    <!-- Right side gif -->
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
@@ -38,8 +41,6 @@
   - 🌱游戏、影视、数码科技，吃喝玩乐。
   - ✍️将最新的自媒体AI趋势作为业余爱好/副业。
   - ☕别让世俗淹没生活的浪漫和热情
-   
-  <br/>
     
   <div style="display: flex; flex-direction: column; align-items: center">
     <!-- svg -->
