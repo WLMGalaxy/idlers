@@ -29,7 +29,6 @@
   
   # 👨🏻‍💻 About Me <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
   
-- 🔭我目前正在学习前端开发。
 - 🤔探索新技术，不断学习。
 - 🎓学习计算机科学，计算机编程。
 - 💼设计、前端、自媒体、人工智能。
