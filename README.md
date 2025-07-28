@@ -36,16 +36,9 @@
 - ✍️将最新的自媒体AI趋势作为业余爱好/副业。
 - ☕别让世俗淹没生活的浪漫和热情
 
-  
-  <p align="center">
-    <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=idlers&show_icons=true&theme=radical" />
-    <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
-  </p>
-  <div align="center">
-  <img src="https://metrics.lecoq.io/idlers?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
-</div>
-  
+
+
+
 <div align="center">
   <!--  skill badge 技能徽章 -->
   💪 正在学习
