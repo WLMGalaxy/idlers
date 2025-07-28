@@ -40,6 +40,7 @@
 
 
 <div align="center">
+<!--
   <!--  skill badge 技能徽章 -->
   💪 正在学习
 
@@ -68,6 +69,8 @@
   ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
   ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+  
+-->
   
   <!-- svg -->
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
