@@ -36,13 +36,6 @@
 - ✍️将最新的自媒体AI趋势作为业余爱好/副业。
 - ☕别让世俗淹没生活的浪漫和热情
 
-  <!--  skills -->
-<div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" /></div>
-  
-<!-- programming tool icon -->
-<div align="left">&nbsp; <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br></div>
- 
-<!-- --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------- -->
   
   <p align="center">
     <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
