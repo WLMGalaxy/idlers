@@ -22,11 +22,12 @@
     <img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" />
   </div>
 
-
-  
-
   <!-- Right side gif -->
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
+  
+  <br/>
+  <br/>
+  <br/>
   
   # 👨🏻‍💻 About Me <img src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" width="25">
   
@@ -36,8 +37,10 @@
 - 🌱游戏、影视、数码科技，吃喝玩乐。
 - ✍️将最新的自媒体AI趋势作为业余爱好/副业。
 - ☕别让世俗淹没生活的浪漫和热情
-
-
+ 
+  <br/>
+  <br/>
+  <br/>
 
 <div style="display: flex; flex-direction: column; align-items: center">
   <!-- svg -->
